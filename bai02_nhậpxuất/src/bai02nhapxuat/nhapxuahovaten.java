@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class nhapxuahovaten {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 System.out.println("-------NHAP XUAT-------");
 		
